@@ -364,8 +364,11 @@ footer {
     }
 
     .nav-menu.active {
-        left: 0;
-        
+        left: 0;    
+    }
+    
+     .imagesector {
+        margin-top: 8rem;
     }
 
 }
