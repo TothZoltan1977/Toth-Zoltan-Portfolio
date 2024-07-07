@@ -70,15 +70,19 @@ header {
 }
 
 .nav-branding {
-    transition: 0.5s ease;
     font-size: 3rem;   
 }
 
 
 .navbar a:hover {
-    color:rgb(223, 145, 45)    
+    transition: 0.5s ease;
 }
 
+
+.nav-branding a:hover {
+    transition: 0.5s ease;
+    font-size: 3rem;   
+}
 
 
 .nav-link {
