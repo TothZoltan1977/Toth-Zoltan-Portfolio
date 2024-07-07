@@ -85,6 +85,12 @@ header {
     transition: 0.5s ease;
 }
 
+
+.nav-menu a:hover {
+    transition: 1.5s ease;
+}
+
+
 .nav-link:hover {
     color:rgb(223, 145, 45)   
 }
